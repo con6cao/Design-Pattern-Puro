@@ -1,4 +1,4 @@
-package org.example;
+package org.example.singleton;
 
 public class SingletonEagler {
     private static SingletonEagler instance = new SingletonEagler();

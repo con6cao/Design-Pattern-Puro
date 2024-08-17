@@ -1,4 +1,4 @@
-package org.example;
+package org.example.singleton;
 
 public class SingletonHolder {
     private static class InstanceHolder {
