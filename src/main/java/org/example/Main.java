@@ -1,5 +1,6 @@
 package org.example;
 
+import org.example.facede.Facede;
 import org.example.singleton.SingletonEagler;
 import org.example.singleton.SingletonLazy;
 import org.example.strategy.*;
@@ -23,12 +24,14 @@ public class Main {
         Robo robo = new Robo();
         robo.setComportaments(normal);
         robo.mover();
-dsdfasgit
+
         robo.setComportaments(agressive);
         robo.mover();
 
         robo.setComportaments(soft);
         robo.mover();
 
+        Facede facede = new Facede();
+        facede.migrarCliente("04420-185","Caio Vinicius");
     }
 }
