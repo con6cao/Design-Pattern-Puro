@@ -1,0 +1,17 @@
+[33mcommit b15e6bd5d9320598323431c6e9953b234e42b817[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: CVdaZN <caio_vinicius2246@hotmail.com>
+Date:   Sat Aug 17 20:11:15 2024 -0300
+
+    inserção do design pattern strategy
+
+[33mcommit 86713d5f4a92c250ce1d93f5cd81acf20a2bf0f7[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: CVdaZN <caio_vinicius2246@hotmail.com>
+Date:   Fri Aug 9 21:42:04 2024 -0300
+
+    inserção das linha de codigo do primeiro exemplo de design pattern. O Singleton
+
+[33mcommit bc332e21676480eb4b16cae71adbc676850b2b8a[m
+Author: CVdaZN <caio_vinicius2246@hotmail.com>
+Date:   Fri Aug 9 21:40:32 2024 -0300
+
+    first commit

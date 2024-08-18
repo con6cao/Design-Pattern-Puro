@@ -23,7 +23,7 @@ public class Main {
         Robo robo = new Robo();
         robo.setComportaments(normal);
         robo.mover();
-
+dsdfasgit
         robo.setComportaments(agressive);
         robo.mover();
 
